@@ -1,2 +1,2 @@
 # ybee
-ybeea is a framework for mobile
+ybee is a framework for mobile
